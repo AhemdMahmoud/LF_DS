@@ -1,0 +1,10 @@
+	- https://s3.amazonaws.com/assets.datacamp.com/email/other/ML+Cheat+Sheet_2.pdf	
+	- https://mlu-explain.github.io/random-forest/
+	- https://blog.paperspace.com/decision-trees/
+	- https://www.explorium.ai/blog/machine-learning/the-complete-guide-to-decision-trees/
+	- https://blog.dataiku.com/tree-based-models-how-they-work-in-plain-english
+	- https://towardsdatascience.com/all-you-need-to-know-about-gradient-boosting-algorithm-part-1-regression-2520a34a502
+	- https://hands-on.cloud/how-to-use-gradient-boosting-algorithm-for-classification-and-regression-problems/
+      - https://inria.github.io/scikit-learn-mooc/overfit/overfit_module_intro.html
+	- https://towardsdatascience.com/what-is-bayes-error-4bfadcc9c0ad
+	- https://scikit-learn.org/stable/index.html
