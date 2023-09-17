@@ -10,7 +10,7 @@ Original file is located at
 """
 
 import requests
-from bs4 import BeautifulSoup
+from bs4 import BeautifulSoup 
 
 request =requests.get("https://wuzzuf.net/search/jobs/?a=hpb&q=&start=0")
 request
